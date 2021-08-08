@@ -1,5 +1,5 @@
 # Self Balancing Robot
-Simple self balancing Arduino robot fusing complementary filter.
+Simple self balancing Arduino robot using complementary filter.
 
 (Tune PID constants in PID.hpp for alternative HW setups)
 
